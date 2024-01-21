@@ -1,0 +1,52 @@
+/* font link  */
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+/* font link  */
+
+
+/* navigation bar desing  */
+/* navigation bar desing  */
+
+.head-container{
+    width: 1171px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    
+}
+
+.img-header{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: 30px;
+    font-family: Mulish;
+}
+#img{
+    width: 48px;
+    height: 56.008px;
+   
+}
+span{
+    color: #FF5400;
+    
+}
+.div-home{
+    margin-left: 200px;
+}
+.div-home  a{
+    text-decoration: none;
+    padding: 22px;
+    font-size: 18px;
+    ;
+    
+}
+
+/* navigation bar desing  */
+/* navigation bar desing  */
+
