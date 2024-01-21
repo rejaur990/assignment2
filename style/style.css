@@ -132,3 +132,91 @@ span{
 /* end section explore your travel  */
 /* end section explore your travel  */
 /* end section explore your travel  */
+
+/* our-contain stert code  */
+/* our-contain stert code  */
+/* our-contain stert code  */
+
+
+
+.our-section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 1171px;
+    height: 540px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 70px;
+}
+#our-h1{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.our-text{
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+#our-button{
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 8px;
+    background: #FF5400;
+    border: none;
+    padding:  14px 34px;
+    margin-top: 20px;
+}
+
+/* our-contain end code  */
+/* our-contain end code  */
+/* our-contain end code  */
+
+
+/* Stert choose section   */
+/* Stert choose section   */
+/* Stert choose section   */
+
+
+
+.ch-div{
+    margin-top: 50px;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+.ch-h1{
+    color: #131318;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 0px;
+   
+    
+}
+.ch-p{
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+    
+}
+
+/* End choose section   */
+/* End choose section   */
+/* End choose section   */
+
